@@ -34,31 +34,31 @@ I use Windows 10 as my main operating system.  I use Windows Terminal because th
 * Windows Terminal supports the Windows command prompt, Powershell, and WSL Bash. That’s everything I need.
 
 # Editor:
-Visual Studio Code: I use this for most of my work, including:
-* Python development
-# Docker
-Kubernetes
-Ansible
-AWS CloudFormation
-Sublime Text: I use this whenever I want to write something down quickly, and I don’t want to get distracted by everything Visual Studio Code shows by default.
-Notepad++: Simple, free, and it works. I use this as a replacement for Sublime Text.
+I use this apps for mose of my works:
+* All in One IDE: Visual Studio Code (https://code.visualstudio.com).
+* Python IDE: Pycharm (https://www.jetbrains.com/pycharm).
+* Docker IDE: Docker Compose (https://docs.docker.com/compose).
+* Kubernetes IDE: LENS (https://k8slens.dev).
+* Ansible: Visual Studio Code (https://code.visualstudio.com).
+* AWS CloudFormation (https://aws.amazon.com/cloudformation).
+* Notepad++: Simple, free, and it works (https://notepad-plus-plus.org/downloads).
 
 # Apps
-TextExpander: this tool is great for reducing the amount you type. It allows you to type abbreviations that automatically expand into whatever you need. Canned responses, URLs, etc. I use this to write quickly but also to open URLs that are difficult to remember (I don’t use bookmarks).
-Autohotkey: Similar to TextExpander but free and even more powerful.
-Obsidian: This tool allows you to create notes and link them to each other. I use this to create a Zettelkasten containing my notes about networking, documentation, research, and more.
-Raindrop.io: I use this as an alternative to Pocket. With Raindrop, you can store articles, images, and videos that you want to read or watch later.
-Instapaper: I use this as an alternative to Raindrop because it synchronizes with Readwise.
-Readwise: this is a great tool because it synchronizes with Obsidian.
+* TextExpander: this tool is great for reducing the amount you type. It allows you to type abbreviations that automatically expand into whatever you need. Canned responses, URLs, etc. I use this to write quickly but also to open URLs that are difficult to remember (I don’t use bookmarks).
+* Autohotkey: Similar to TextExpander but free and even more powerful.
+* Obsidian: This tool allows you to create notes and link them to each other. I use this to create a Zettelkasten containing my notes about networking, documentation, research, and more.
+* Raindrop.io: I use this as an alternative to Pocket. With Raindrop, you can store articles, images, and videos that you want to read or watch later.
+* Instapaper: I use this as an alternative to Raindrop because it synchronizes with Readwise.
+* Readwise: this is a great tool because it synchronizes with Obsidian.
 
 # Recording
-OBS Studio: this is what I use to record videos. Open-source and allows you to create scenes.
-Shure SM7B Microphone: one of the most popular microphones out there. Sounds great out of the box, even if you don’t edit your audio.
-Sennheiser MKH 416: a shotgun overhead microphone that remains outside of the scene I shoot.
-Focusrite 2i2: connects the microphone to my computer.
+* OBS Studio: this is what I use to record videos. Open-source and allows you to create scenes.
+* Shure SM7B Microphone: one of the most popular microphones out there. Sounds great out of the box, even if you don’t edit your audio.
+* Sennheiser MKH 416: a shotgun overhead microphone that remains outside of the scene I shoot.
+* Focusrite 2i2: connects the microphone to my computer.
 
 # Labs
-Cisco VIRL: I use this for most of my labs.
-Cisco CML: Aka VIRL2
-EVE-NG: Great for everything that is difficult to do with CML. For example, Cisco SD-WAN.
-Physical Lab: I also have a physical lab with routers, switches, firewalls, ESXi servers, etc. You can find some details here.
+* Cisco VIRL: I use this for most of my labs.
+* Cisco CML: Aka VIRL2
+* EVE-NG: Great for everything that is difficult to do with CML. For example, Cisco SD-WAN.
+* Physical Lab: I also have a physical lab with routers, switches, firewalls, ESXi servers, etc. You can find some details here.
