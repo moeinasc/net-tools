@@ -5,16 +5,28 @@ Are you wondering what tools and resources I use for my job? On this page, I sha
 Everything I use to create graphics.
 
 # Network Diagrams:
-I use Microsoft Visio 2019 to create all network diagrams. Stencils are from Visiocafe (www.visiocafe.com), they release a lot of good-looking free Visio stencils (www.visiocafe.com/vsdfx.htm). I use Excalidraw for quick drawings.
+I use Microsoft Visio 2019 to create all network diagrams. Stencils are from Visiocafe (http://www.visiocafe.com), they release a lot of good-looking free Visio stencils (http://www.visiocafe.com/vsdfx.htm). I use Excalidraw for quick drawings.
 
 # Tools
 A collection of miscellaneous tools.
 
 # Terminal:
-Nowadays, I use SecureCRT as my main console/terminal with the Consolas font. SecureCRT might look outdated but does everything you need. There are two main reasons why I use it:
+Nowadays, I use SecureCRT as my main console/terminal with the Consolas font (https://freefontsdownload.net/free-consolas-font-33098.htm). SecureCRT might look outdated but does everything you need. There are two main reasons why I use it:
 
-The session manager is useful to store all devices you connect to.
-It supports scripts. I use this sometimes to extract configurations from devices.
+* The session manager is useful to store all devices you connect to.
+* It supports scripts. I use this sometimes to extract configurations from devices.
+
+Also You can use this nice words file (Special thanks to Giulino Barros):
+* 1 - Download files "Cisco Words.ini" or "Cisco Words for BlackBckgrd.ini" below (I use the first one).
+** https://lnkd.in/e4nEZuzZ
+** https://lnkd.in/eyb8WGAz
+* 2 - Find the SecureCRT's Configuration folder. You can find the path to Config folder on Options / Global Options and navigate to the Configuration paths category.
+* 3 - Open the "Keywords" subfolder found in Configuration folder.
+PS: If a "Keywords" subfolder doesn't exist in Config folder, create one there.
+* 4 - Copy the downloaded .ini file to "Keywords" folder.
+* 5 - Edit the session options for any of your saved sessions. Go to category Terminal -> Appearance and in the "Keyword Highlighting" you'll see a drop-down "Name"... and now with "Cisco Words" in it.
+PS: You may edit the Default session to configure for all existing and future sessions/connections.
+
 
 # Console
 I use Windows 10 as my main operating system.  I use Cmder  Windows Terminal because the default command prompt isn’t very useful. Cmder uses ConEmu under the hood and allows you to open tabs for the Windows command prompt, Git Bash, WSL Bash, and PowerShell.
