@@ -18,8 +18,8 @@ Nowadays, I use SecureCRT as my main console/terminal with the Consolas font (ht
 
 Also You can use this nice words file (Special thanks to Giulino Barros):
 * 1 - Download files "Cisco Words.ini" or "Cisco Words for BlackBckgrd.ini" below (I use the first one).
-** https://lnkd.in/e4nEZuzZ
-** https://lnkd.in/eyb8WGAz
+* https://lnkd.in/e4nEZuzZ
+* https://lnkd.in/eyb8WGAz
 * 2 - Find the SecureCRT's Configuration folder. You can find the path to Config folder on Options / Global Options and navigate to the Configuration paths category.
 * 3 - Open the "Keywords" subfolder found in Configuration folder.
 PS: If a "Keywords" subfolder doesn't exist in Config folder, create one there.
@@ -29,14 +29,14 @@ PS: You may edit the Default session to configure for all existing and future se
 
 
 # Console
-I use Windows 10 as my main operating system.  I use Cmder  Windows Terminal because the default command prompt isn’t very useful. Cmder uses ConEmu under the hood and allows you to open tabs for the Windows command prompt, Git Bash, WSL Bash, and PowerShell.
+I use Windows 10 as my main operating system.  I use Windows Terminal because the default command prompt isn’t very useful (https://github.com/microsoft/terminal). I also use Cmder (https://cmder.app). Cmder uses ConEmu under the hood and allows you to open tabs for the Windows command prompt, Git Bash, WSL Bash, and PowerShell.
 
-Windows Terminal supports the Windows command prompt, Powershell, and WSL Bash. That’s everything I need.
+* Windows Terminal supports the Windows command prompt, Powershell, and WSL Bash. That’s everything I need.
 
 # Editor:
 Visual Studio Code: I use this for most of my work, including:
-Python development
-Docker
+* Python development
+# Docker
 Kubernetes
 Ansible
 AWS CloudFormation
