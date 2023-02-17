@@ -5,7 +5,7 @@ Are you wondering what tools and resources I use for my job? On this page, I sha
 Everything I use to create graphics.
 
 # Network Diagrams:
-I use Microsoft Visio 2019 to create all network diagrams. Stencils are from Visiocafe, they release a lot of good-looking free Visio stencils. I use Excalidraw for quick drawings.
+I use Microsoft Visio 2019 to create all network diagrams. Stencils are from Visiocafe (www.visiocafe.com), they release a lot of good-looking free Visio stencils (www.visiocafe.com/vsdfx.htm). I use Excalidraw for quick drawings.
 
 # Tools
 A collection of miscellaneous tools.
